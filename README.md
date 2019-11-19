@@ -1,4 +1,4 @@
-# Adjust-Task
+# Adjust
 Take Home Tasks from Adjust
 
 
